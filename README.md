@@ -47,4 +47,4 @@ Simple operations are straightforward, for example:
 c = a + b 
 ```
 
-Check out this [jupyter notebook](https://github.com/muryelgp/PCI/blob/master/pci/How_to.ipynb) for details and more interesting examples.
+Check out this [jupyter notebook](https://github.com/muryelgp/asymmetric_uncertainties/blob/master/asymmetric_uncertainties/how-to.ipynb) for details and more interesting examples.
