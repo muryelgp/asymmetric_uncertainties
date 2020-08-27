@@ -565,14 +565,14 @@ class aufloat:
 if __name__ == "__main__":
 	
 
-	#examples:
+	examples:
 
-	#a = aufloat(10,.5,1, confidence = 68)
+	a = aufloat(10,.5,1, confidence = 68)
 
-	#b = aufloat(10,.5,1, delta_chi2 = 2.7)
+	b = aufloat(10,.5,1, delta_chi2 = 2.7)
 
-	#c = a + b
+	c = a + b
 
-	#d = aufloat(data = a.gen_data, confidence = 90)
+	d = aufloat(data = a.gen_data, confidence = 90)
 
 
