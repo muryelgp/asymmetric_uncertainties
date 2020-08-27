@@ -31,7 +31,7 @@ A measurment with a nominal value of 10 and errors +1 and -0.5 at 68% confidence
 can be instanciated by:
 
 ```bash
-a=aufloat(10, 0.5, 1, confidence=68)
+a = aufloat(10, 0.5, 1, confidence=68)
 ```
 in the same way:
 
@@ -39,7 +39,7 @@ in the same way:
 
 
 ```bash
-b=asymed(30, 3.5, 3, confidence=68)
+b = asymed(30, 3.5, 3, confidence=68)
 ```
 Simple operations are straightforward, for example: 
 
