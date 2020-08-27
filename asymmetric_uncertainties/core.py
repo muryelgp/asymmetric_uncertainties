@@ -319,7 +319,7 @@ class aufloat:
 
 	def _fit(self, expected=None, guess = None):
 		plt.ioff()
-		y, x, _ = plt.hist(self.data, bins=50, density =True, visible = False)
+		y, x = np.histogram(self.data, bins=50,)
 		plt.ion()
 		plt.clf()
 		x = (x[1:] + x[:-1]) / 2  # for len(x)==len(y)
