@@ -99,7 +99,7 @@ class aufloat:
 		
 		if(str(self._creation_method) == 'by_parameters'):
 			self._N = int(1e4)
-			delta = 4*np.max([self.err_n,self.err_p])/np.sqrt(self.delta_chi2)
+			delta = 5*np.max([self.err_n,self.err_p])/np.sqrt(self.delta_chi2)
 			self.x_lim =  [self.nv - delta, self.nv + delta]
 			self.x_values = np.linspace(self.x_lim[0], self.x_lim[1], self._N)
 			
@@ -120,7 +120,7 @@ class aufloat:
 			self._fit(guess = mod)
 			#self.sigma_n, self.sigma_p = self.estimate()
 
-			delta = 4*np.max([self.err_n,self.err_p])/np.sqrt(self.delta_chi2)
+			delta = 5*np.max([self.err_n,self.err_p])/np.sqrt(self.delta_chi2)
 			self.x_lim =  [self.nv - delta, self.nv + delta]
 			self.x_values = np.linspace(self.x_lim[0], self.x_lim[1], self._N)
 			
@@ -318,10 +318,10 @@ class aufloat:
 		return value
 
 	def _fit(self, expected=None, guess = None):
-		plt.ioff()
-		y, x = np.histogram(self.data, bins=50,)
-		plt.ion()
-		plt.clf()
+		#plt.ioff()
+		y, x = np.histogram(self.data, bins=50)
+		#plt.ion()
+		#plt.clf()
 		x = (x[1:] + x[:-1]) / 2  # for len(x)==len(y)
 		
 		if guess is not None:
