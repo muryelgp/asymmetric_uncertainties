@@ -132,6 +132,8 @@ class aufloat:
 			self.pdf_values = np.asarray(self.pdf(self.x_values))
 			self.cdf_values = np.asarray(self._calculate_cdf_values())
 			self.delta_chi2_curve = np.asarray(self.delta_chi2_func(self.x_values))
+
+			self.data = np.asarray([])
 			
 
 	def __str__(self):
@@ -411,19 +413,6 @@ class aufloat:
 		if show:
 			plt.show()
 
-	def plot_data_and_pdf(self, bins=None, show=True, save=False):
-		if not bins:
-			bins = 50
-
-		plt.clf()
-		plt.hist(self.data, bins=bins, density=True, color="green", alpha=0.6)
-		plt.plot(self.x_values, self.pdf_values, color="blue")
-
-		if save:
-			plt.savefig("plot_data_and_pdf.png", dpi=300)
-
-		if show:
-			plt.show()
 
 	def __add__(self, other):
 		if isinstance(other, self.__class__):
