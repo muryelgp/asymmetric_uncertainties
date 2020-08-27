@@ -39,7 +39,7 @@ in the same way:
 
 
 ```bash
-b = asymed(30, 3.5, 3, confidence=68)
+b = aufloat(30, 3.5, 3, confidence=68)
 ```
 Simple operations are straightforward, for example: 
 
