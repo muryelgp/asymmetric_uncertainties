@@ -321,7 +321,7 @@ class aufloat:
 		plt.ioff()
 		y, x, _ = plt.hist(self.data, bins=50, density =True, visible = False)
 		plt.ion()
-
+		plt.clf()
 		x = (x[1:] + x[:-1]) / 2  # for len(x)==len(y)
 		
 		if guess is not None:
@@ -573,6 +573,6 @@ if __name__ == "__main__":
 
 	c = a + b
 
-	d = aufloat(data = a.gen_data, confidence = 90)
+	d = aufloat(data = a.gen_data(), confidence = 90)
 
 
