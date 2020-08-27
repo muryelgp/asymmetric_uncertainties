@@ -565,7 +565,7 @@ class aufloat:
 if __name__ == "__main__":
 	
 
-	examples:
+	#examples:
 
 	a = aufloat(10,.5,1, confidence = 68)
 
