@@ -1,0 +1,667 @@
+core.py:5:1: F401 'random' imported but unused
+core.py:8:1: E302 expected 2 blank lines, found 1
+core.py:10:1: W191 indentation contains tabs
+core.py:12:1: W191 indentation contains tabs
+core.py:13:1: W191 indentation contains tabs
+core.py:15:1: W191 indentation contains tabs
+core.py:15:65: E251 unexpected spaces around keyword / parameter equals
+core.py:16:1: E101 indentation contains mixed spaces and tabs
+core.py:16:27: E251 unexpected spaces around keyword / parameter equals
+core.py:16:29: E251 unexpected spaces around keyword / parameter equals
+core.py:18:1: W191 indentation contains tabs
+core.py:19:1: W191 indentation contains tabs
+core.py:19:1: W293 blank line contains whitespace
+core.py:19:2: E101 indentation contains mixed spaces and tabs
+core.py:20:1: W191 indentation contains tabs
+core.py:21:1: W191 indentation contains tabs
+core.py:22:1: W191 indentation contains tabs
+core.py:23:1: W191 indentation contains tabs
+core.py:25:1: W191 indentation contains tabs
+core.py:26:1: W191 indentation contains tabs
+core.py:26:80: E501 line too long (85 > 79 characters)
+core.py:28:1: W191 indentation contains tabs
+core.py:29:1: W191 indentation contains tabs
+core.py:29:80: E501 line too long (84 > 79 characters)
+core.py:31:1: W191 indentation contains tabs
+core.py:32:1: W191 indentation contains tabs
+core.py:32:80: E501 line too long (94 > 79 characters)
+core.py:34:1: W191 indentation contains tabs
+core.py:36:1: W191 indentation contains tabs
+core.py:37:1: W191 indentation contains tabs
+core.py:38:1: W191 indentation contains tabs
+core.py:39:1: W191 indentation contains tabs
+core.py:41:1: W191 indentation contains tabs
+core.py:42:1: W191 indentation contains tabs
+core.py:43:1: W191 indentation contains tabs
+core.py:44:1: W191 indentation contains tabs
+core.py:46:1: W191 indentation contains tabs
+core.py:47:1: W191 indentation contains tabs
+core.py:47:80: E501 line too long (83 > 79 characters)
+core.py:47:84: W291 trailing whitespace
+core.py:48:1: W191 indentation contains tabs
+core.py:50:1: W191 indentation contains tabs
+core.py:51:1: W191 indentation contains tabs
+core.py:52:1: W191 indentation contains tabs
+core.py:53:1: W191 indentation contains tabs
+core.py:53:6: W291 trailing whitespace
+core.py:55:1: W191 indentation contains tabs
+core.py:56:1: W191 indentation contains tabs
+core.py:57:1: W191 indentation contains tabs
+core.py:59:1: W191 indentation contains tabs
+core.py:60:1: W191 indentation contains tabs
+core.py:61:1: W191 indentation contains tabs
+core.py:62:1: W191 indentation contains tabs
+core.py:63:1: W191 indentation contains tabs
+core.py:64:1: W191 indentation contains tabs
+core.py:65:1: W191 indentation contains tabs
+core.py:65:65: W291 trailing whitespace
+core.py:66:1: W191 indentation contains tabs
+core.py:67:1: W191 indentation contains tabs
+core.py:68:1: W191 indentation contains tabs
+core.py:69:1: W191 indentation contains tabs
+core.py:71:1: W191 indentation contains tabs
+core.py:71:5: E101 indentation contains mixed spaces and tabs
+core.py:72:1: W191 indentation contains tabs
+core.py:72:5: E101 indentation contains mixed spaces and tabs
+core.py:73:1: W191 indentation contains tabs
+core.py:75:1: W191 indentation contains tabs
+core.py:75:4: E101 indentation contains mixed spaces and tabs
+core.py:77:1: W191 indentation contains tabs
+core.py:78:1: W191 indentation contains tabs
+core.py:79:1: W191 indentation contains tabs
+core.py:80:1: W191 indentation contains tabs
+core.py:80:3: E722 do not use bare 'except'
+core.py:81:1: W191 indentation contains tabs
+core.py:81:8: W291 trailing whitespace
+core.py:82:1: W191 indentation contains tabs
+core.py:83:1: W191 indentation contains tabs
+core.py:84:1: W191 indentation contains tabs
+core.py:85:1: W191 indentation contains tabs
+core.py:87:1: W191 indentation contains tabs
+core.py:88:1: W191 indentation contains tabs
+core.py:89:1: W191 indentation contains tabs
+core.py:90:1: W191 indentation contains tabs
+core.py:91:1: W191 indentation contains tabs
+core.py:91:4: E722 do not use bare 'except'
+core.py:92:1: W191 indentation contains tabs
+core.py:94:1: W191 indentation contains tabs
+core.py:94:10: E225 missing whitespace around operator
+core.py:95:1: W191 indentation contains tabs
+core.py:96:1: W191 indentation contains tabs
+core.py:97:1: W191 indentation contains tabs
+core.py:97:1: W293 blank line contains whitespace
+core.py:98:1: W191 indentation contains tabs
+core.py:99:1: W191 indentation contains tabs
+core.py:100:1: W191 indentation contains tabs
+core.py:100:32: E231 missing whitespace after ','
+core.py:101:1: W191 indentation contains tabs
+core.py:101:16: E222 multiple spaces after operator
+core.py:102:1: W191 indentation contains tabs
+core.py:103:1: W191 indentation contains tabs
+core.py:103:1: W293 blank line contains whitespace
+core.py:104:1: W191 indentation contains tabs
+core.py:105:1: W191 indentation contains tabs
+core.py:107:1: W191 indentation contains tabs
+core.py:108:1: W191 indentation contains tabs
+core.py:109:1: W191 indentation contains tabs
+core.py:110:1: W191 indentation contains tabs
+core.py:110:1: W293 blank line contains whitespace
+core.py:111:1: W191 indentation contains tabs
+core.py:112:1: W191 indentation contains tabs
+core.py:113:1: W191 indentation contains tabs
+core.py:113:19: E251 unexpected spaces around keyword / parameter equals
+core.py:113:21: E251 unexpected spaces around keyword / parameter equals
+core.py:114:1: W191 indentation contains tabs
+core.py:114:4: E265 block comment should start with '# '
+core.py:116:1: W191 indentation contains tabs
+core.py:116:32: E231 missing whitespace after ','
+core.py:117:1: W191 indentation contains tabs
+core.py:117:16: E222 multiple spaces after operator
+core.py:118:1: W191 indentation contains tabs
+core.py:120:1: W191 indentation contains tabs
+core.py:121:1: W191 indentation contains tabs
+core.py:123:1: W191 indentation contains tabs
+core.py:124:1: W191 indentation contains tabs
+core.py:125:1: W191 indentation contains tabs
+core.py:126:1: W191 indentation contains tabs
+core.py:127:1: W191 indentation contains tabs
+core.py:127:1: W293 blank line contains whitespace
+core.py:128:1: W191 indentation contains tabs
+core.py:129:1: W191 indentation contains tabs
+core.py:130:1: W191 indentation contains tabs
+core.py:131:1: W191 indentation contains tabs
+core.py:132:1: W191 indentation contains tabs
+core.py:133:1: W191 indentation contains tabs
+core.py:134:1: W191 indentation contains tabs
+core.py:135:1: W191 indentation contains tabs
+core.py:135:4: E101 indentation contains mixed spaces and tabs
+core.py:135:5: E128 continuation line under-indented for visual indent
+core.py:137:1: W191 indentation contains tabs
+core.py:138:1: W191 indentation contains tabs
+core.py:139:1: W191 indentation contains tabs
+core.py:140:1: W191 indentation contains tabs
+core.py:141:1: W191 indentation contains tabs
+core.py:142:1: W191 indentation contains tabs
+core.py:143:1: W191 indentation contains tabs
+core.py:144:1: W191 indentation contains tabs
+core.py:144:4: E101 indentation contains mixed spaces and tabs
+core.py:144:5: E128 continuation line under-indented for visual indent
+core.py:146:1: W191 indentation contains tabs
+core.py:146:26: E231 missing whitespace after ','
+core.py:146:37: E202 whitespace before ')'
+core.py:147:1: W191 indentation contains tabs
+core.py:148:1: W191 indentation contains tabs
+core.py:149:1: W191 indentation contains tabs
+core.py:150:1: W191 indentation contains tabs
+core.py:151:1: W191 indentation contains tabs
+core.py:152:1: W191 indentation contains tabs
+core.py:154:1: W191 indentation contains tabs
+core.py:155:1: W191 indentation contains tabs
+core.py:156:1: W191 indentation contains tabs
+core.py:157:1: W191 indentation contains tabs
+core.py:157:80: E501 line too long (83 > 79 characters)
+core.py:158:1: W191 indentation contains tabs
+core.py:159:1: W191 indentation contains tabs
+core.py:161:1: W191 indentation contains tabs
+core.py:162:1: W191 indentation contains tabs
+core.py:163:1: W191 indentation contains tabs
+core.py:164:1: W191 indentation contains tabs
+core.py:166:1: W191 indentation contains tabs
+core.py:168:1: W191 indentation contains tabs
+core.py:169:1: W191 indentation contains tabs
+core.py:169:75: W291 trailing whitespace
+core.py:171:1: W191 indentation contains tabs
+core.py:172:1: W191 indentation contains tabs
+core.py:173:1: W191 indentation contains tabs
+core.py:174:1: W191 indentation contains tabs
+core.py:175:1: W191 indentation contains tabs
+core.py:177:1: W191 indentation contains tabs
+core.py:178:1: W191 indentation contains tabs
+core.py:178:1: W293 blank line contains whitespace
+core.py:179:1: W191 indentation contains tabs
+core.py:180:1: W191 indentation contains tabs
+core.py:180:22: E221 multiple spaces before operator
+core.py:180:52: E221 multiple spaces before operator
+core.py:181:1: W191 indentation contains tabs
+core.py:181:8: E225 missing whitespace around operator
+core.py:182:1: W191 indentation contains tabs
+core.py:182:1: W293 blank line contains whitespace
+core.py:183:1: W191 indentation contains tabs
+core.py:183:3: E265 block comment should start with '# '
+core.py:184:1: W191 indentation contains tabs
+core.py:185:1: W191 indentation contains tabs
+core.py:186:1: W191 indentation contains tabs
+core.py:186:3: E265 block comment should start with '# '
+core.py:187:1: W191 indentation contains tabs
+core.py:188:1: W191 indentation contains tabs
+core.py:188:1: W293 blank line contains whitespace
+core.py:189:1: W191 indentation contains tabs
+core.py:191:1: W191 indentation contains tabs
+core.py:192:1: W191 indentation contains tabs
+core.py:192:75: W291 trailing whitespace
+core.py:193:1: W191 indentation contains tabs
+core.py:193:1: W293 blank line contains whitespace
+core.py:194:1: W191 indentation contains tabs
+core.py:195:1: W191 indentation contains tabs
+core.py:196:1: W191 indentation contains tabs
+core.py:197:1: W191 indentation contains tabs
+core.py:198:1: W191 indentation contains tabs
+core.py:200:1: W191 indentation contains tabs
+core.py:201:1: W191 indentation contains tabs
+core.py:202:1: W191 indentation contains tabs
+core.py:202:22: E221 multiple spaces before operator
+core.py:202:52: E221 multiple spaces before operator
+core.py:203:1: W191 indentation contains tabs
+core.py:204:1: W191 indentation contains tabs
+core.py:206:1: W191 indentation contains tabs
+core.py:207:1: W191 indentation contains tabs
+core.py:208:1: W191 indentation contains tabs
+core.py:209:1: W191 indentation contains tabs
+core.py:209:42: E251 unexpected spaces around keyword / parameter equals
+core.py:209:44: E251 unexpected spaces around keyword / parameter equals
+core.py:210:1: W191 indentation contains tabs
+core.py:211:1: W191 indentation contains tabs
+core.py:213:1: W191 indentation contains tabs
+core.py:215:1: W191 indentation contains tabs
+core.py:216:1: W191 indentation contains tabs
+core.py:216:1: W293 blank line contains whitespace
+core.py:217:1: W191 indentation contains tabs
+core.py:218:1: W191 indentation contains tabs
+core.py:219:1: W191 indentation contains tabs
+core.py:220:1: W191 indentation contains tabs
+core.py:221:1: W191 indentation contains tabs
+core.py:223:1: W191 indentation contains tabs
+core.py:224:1: W191 indentation contains tabs
+core.py:226:1: W191 indentation contains tabs
+core.py:227:1: W191 indentation contains tabs
+core.py:227:80: E501 line too long (84 > 79 characters)
+core.py:228:1: W191 indentation contains tabs
+core.py:230:1: W191 indentation contains tabs
+core.py:232:1: W191 indentation contains tabs
+core.py:232:80: E501 line too long (82 > 79 characters)
+core.py:233:1: W191 indentation contains tabs
+core.py:234:1: W191 indentation contains tabs
+core.py:234:1: W293 blank line contains whitespace
+core.py:235:1: W191 indentation contains tabs
+core.py:236:1: W191 indentation contains tabs
+core.py:237:1: W191 indentation contains tabs
+core.py:238:1: W191 indentation contains tabs
+core.py:239:1: W191 indentation contains tabs
+core.py:241:1: W191 indentation contains tabs
+core.py:242:1: W191 indentation contains tabs
+core.py:243:1: W191 indentation contains tabs
+core.py:245:1: W191 indentation contains tabs
+core.py:246:1: W191 indentation contains tabs
+core.py:246:50: E231 missing whitespace after ','
+core.py:247:1: W191 indentation contains tabs
+core.py:249:1: W191 indentation contains tabs
+core.py:249:44: E251 unexpected spaces around keyword / parameter equals
+core.py:249:46: E251 unexpected spaces around keyword / parameter equals
+core.py:249:63: E251 unexpected spaces around keyword / parameter equals
+core.py:249:65: E251 unexpected spaces around keyword / parameter equals
+core.py:251:1: W191 indentation contains tabs
+core.py:251:46: W291 trailing whitespace
+core.py:253:1: W191 indentation contains tabs
+core.py:255:1: W191 indentation contains tabs
+core.py:256:1: W191 indentation contains tabs
+core.py:257:1: W191 indentation contains tabs
+core.py:258:1: W191 indentation contains tabs
+core.py:260:1: W191 indentation contains tabs
+core.py:263:1: W191 indentation contains tabs
+core.py:264:1: W191 indentation contains tabs
+core.py:265:1: W191 indentation contains tabs
+core.py:266:1: W191 indentation contains tabs
+core.py:267:1: W191 indentation contains tabs
+core.py:269:1: W191 indentation contains tabs
+core.py:270:1: W191 indentation contains tabs
+core.py:270:80: E501 line too long (93 > 79 characters)
+core.py:272:1: W191 indentation contains tabs
+core.py:273:1: W191 indentation contains tabs
+core.py:274:1: W191 indentation contains tabs
+core.py:275:1: W191 indentation contains tabs
+core.py:276:1: W191 indentation contains tabs
+core.py:277:1: W191 indentation contains tabs
+core.py:277:4: E722 do not use bare 'except'
+core.py:278:1: W191 indentation contains tabs
+core.py:278:80: E501 line too long (90 > 79 characters)
+core.py:278:91: W291 trailing whitespace
+core.py:279:1: W191 indentation contains tabs
+core.py:280:1: W191 indentation contains tabs
+core.py:282:1: W191 indentation contains tabs
+core.py:283:1: W191 indentation contains tabs
+core.py:283:8: E222 multiple spaces after operator
+core.py:283:17: E201 whitespace after '('
+core.py:284:1: W191 indentation contains tabs
+core.py:286:1: W191 indentation contains tabs
+core.py:287:1: W191 indentation contains tabs
+core.py:287:8: E222 multiple spaces after operator
+core.py:287:17: E201 whitespace after '('
+core.py:288:1: W191 indentation contains tabs
+core.py:290:1: W191 indentation contains tabs
+core.py:292:1: W191 indentation contains tabs
+core.py:293:1: W191 indentation contains tabs
+core.py:295:1: W191 indentation contains tabs
+core.py:296:1: W191 indentation contains tabs
+core.py:297:1: W191 indentation contains tabs
+core.py:298:1: W191 indentation contains tabs
+core.py:298:3: E265 block comment should start with '# '
+core.py:299:1: W191 indentation contains tabs
+core.py:299:15: W291 trailing whitespace
+core.py:300:1: W191 indentation contains tabs
+core.py:301:1: W191 indentation contains tabs
+core.py:303:1: W191 indentation contains tabs
+core.py:303:37: E251 unexpected spaces around keyword / parameter equals
+core.py:303:39: E251 unexpected spaces around keyword / parameter equals
+core.py:305:1: W191 indentation contains tabs
+core.py:306:1: W191 indentation contains tabs
+core.py:307:1: W191 indentation contains tabs
+core.py:308:1: W191 indentation contains tabs
+core.py:309:1: W191 indentation contains tabs
+core.py:310:1: W191 indentation contains tabs
+core.py:311:1: W191 indentation contains tabs
+core.py:311:9: E222 multiple spaces after operator
+core.py:311:31: E225 missing whitespace around operator
+core.py:312:1: W191 indentation contains tabs
+core.py:313:1: W191 indentation contains tabs
+core.py:314:1: W191 indentation contains tabs
+core.py:315:1: W191 indentation contains tabs
+core.py:315:1: W293 blank line contains whitespace
+core.py:316:1: W191 indentation contains tabs
+core.py:317:1: W191 indentation contains tabs
+core.py:318:1: W191 indentation contains tabs
+core.py:318:80: E501 line too long (87 > 79 characters)
+core.py:319:1: W191 indentation contains tabs
+core.py:319:3: E265 block comment should start with '# '
+core.py:319:80: E501 line too long (114 > 79 characters)
+core.py:320:1: W191 indentation contains tabs
+core.py:320:1: W293 blank line contains whitespace
+core.py:321:1: W191 indentation contains tabs
+core.py:321:10: E225 missing whitespace around operator
+core.py:321:80: E501 line too long (93 > 79 characters)
+core.py:322:1: W191 indentation contains tabs
+core.py:322:3: E101 indentation contains mixed spaces and tabs
+core.py:322:4: E128 continuation line under-indented for visual indent
+core.py:323:1: W191 indentation contains tabs
+core.py:324:1: W191 indentation contains tabs
+core.py:324:70: E251 unexpected spaces around keyword / parameter equals
+core.py:324:72: E251 unexpected spaces around keyword / parameter equals
+core.py:324:80: E501 line too long (110 > 79 characters)
+core.py:325:1: W191 indentation contains tabs
+core.py:325:3: E265 block comment should start with '# '
+core.py:326:1: W191 indentation contains tabs
+core.py:326:29: W291 trailing whitespace
+core.py:327:1: W191 indentation contains tabs
+core.py:328:1: W191 indentation contains tabs
+core.py:328:1: W293 blank line contains whitespace
+core.py:329:1: W191 indentation contains tabs
+core.py:330:1: W191 indentation contains tabs
+core.py:331:1: W191 indentation contains tabs
+core.py:332:1: W191 indentation contains tabs
+core.py:333:1: W191 indentation contains tabs
+core.py:334:1: W191 indentation contains tabs
+core.py:336:1: W191 indentation contains tabs
+core.py:337:1: W191 indentation contains tabs
+core.py:338:1: W191 indentation contains tabs
+core.py:339:1: W191 indentation contains tabs
+core.py:340:1: W191 indentation contains tabs
+core.py:341:1: W191 indentation contains tabs
+core.py:341:4: E101 indentation contains mixed spaces and tabs
+core.py:341:5: E128 continuation line under-indented for visual indent
+core.py:341:10: E251 unexpected spaces around keyword / parameter equals
+core.py:341:12: E251 unexpected spaces around keyword / parameter equals
+core.py:342:1: W191 indentation contains tabs
+core.py:343:1: W191 indentation contains tabs
+core.py:344:1: W191 indentation contains tabs
+core.py:345:1: W191 indentation contains tabs
+core.py:345:4: E101 indentation contains mixed spaces and tabs
+core.py:345:5: E128 continuation line under-indented for visual indent
+core.py:345:10: E251 unexpected spaces around keyword / parameter equals
+core.py:345:12: E251 unexpected spaces around keyword / parameter equals
+core.py:346:1: W191 indentation contains tabs
+core.py:346:4: E101 indentation contains mixed spaces and tabs
+core.py:346:6: E128 continuation line under-indented for visual indent
+core.py:348:1: W191 indentation contains tabs
+core.py:348:7: E231 missing whitespace after ','
+core.py:349:1: W191 indentation contains tabs
+core.py:350:1: W191 indentation contains tabs
+core.py:350:40: E251 unexpected spaces around keyword / parameter equals
+core.py:350:43: E231 missing whitespace after ','
+core.py:351:1: W191 indentation contains tabs
+core.py:351:3: E101 indentation contains mixed spaces and tabs
+core.py:351:4: E128 continuation line under-indented for visual indent
+core.py:351:9: E251 unexpected spaces around keyword / parameter equals
+core.py:351:11: E251 unexpected spaces around keyword / parameter equals
+core.py:351:30: E251 unexpected spaces around keyword / parameter equals
+core.py:351:32: E251 unexpected spaces around keyword / parameter equals
+core.py:351:48: E251 unexpected spaces around keyword / parameter equals
+core.py:351:50: E251 unexpected spaces around keyword / parameter equals
+core.py:352:1: W191 indentation contains tabs
+core.py:352:40: E251 unexpected spaces around keyword / parameter equals
+core.py:352:43: E231 missing whitespace after ','
+core.py:353:1: W191 indentation contains tabs
+core.py:353:3: E101 indentation contains mixed spaces and tabs
+core.py:353:4: E128 continuation line under-indented for visual indent
+core.py:353:9: E251 unexpected spaces around keyword / parameter equals
+core.py:353:11: E251 unexpected spaces around keyword / parameter equals
+core.py:353:31: E251 unexpected spaces around keyword / parameter equals
+core.py:353:33: E251 unexpected spaces around keyword / parameter equals
+core.py:353:49: E251 unexpected spaces around keyword / parameter equals
+core.py:353:51: E251 unexpected spaces around keyword / parameter equals
+core.py:353:51: E222 multiple spaces after operator
+core.py:354:1: W191 indentation contains tabs
+core.py:354:27: E251 unexpected spaces around keyword / parameter equals
+core.py:354:30: E231 missing whitespace after ','
+core.py:354:60: E251 unexpected spaces around keyword / parameter equals
+core.py:354:62: E251 unexpected spaces around keyword / parameter equals
+core.py:354:80: E501 line too long (106 > 79 characters)
+core.py:354:82: E251 unexpected spaces around keyword / parameter equals
+core.py:354:84: E251 unexpected spaces around keyword / parameter equals
+core.py:354:100: E251 unexpected spaces around keyword / parameter equals
+core.py:354:102: E251 unexpected spaces around keyword / parameter equals
+core.py:355:1: W191 indentation contains tabs
+core.py:355:44: E251 unexpected spaces around keyword / parameter equals
+core.py:355:46: E251 unexpected spaces around keyword / parameter equals
+core.py:355:46: E222 multiple spaces after operator
+core.py:356:1: W191 indentation contains tabs
+core.py:356:22: E251 unexpected spaces around keyword / parameter equals
+core.py:356:24: E251 unexpected spaces around keyword / parameter equals
+core.py:357:1: W191 indentation contains tabs
+core.py:358:1: W191 indentation contains tabs
+core.py:359:1: W191 indentation contains tabs
+core.py:360:1: W191 indentation contains tabs
+core.py:361:1: W191 indentation contains tabs
+core.py:362:1: W191 indentation contains tabs
+core.py:364:1: W191 indentation contains tabs
+core.py:366:1: W191 indentation contains tabs
+core.py:367:1: W191 indentation contains tabs
+core.py:368:1: W191 indentation contains tabs
+core.py:369:1: W191 indentation contains tabs
+core.py:369:1: W293 blank line contains whitespace
+core.py:370:1: W191 indentation contains tabs
+core.py:371:1: W191 indentation contains tabs
+core.py:373:1: W191 indentation contains tabs
+core.py:373:63: E251 unexpected spaces around keyword / parameter equals
+core.py:373:65: E251 unexpected spaces around keyword / parameter equals
+core.py:373:80: E501 line too long (109 > 79 characters)
+core.py:374:1: W191 indentation contains tabs
+core.py:374:40: E251 unexpected spaces around keyword / parameter equals
+core.py:374:42: E251 unexpected spaces around keyword / parameter equals
+core.py:375:1: W191 indentation contains tabs
+core.py:376:1: W191 indentation contains tabs
+core.py:377:1: W191 indentation contains tabs
+core.py:378:1: W191 indentation contains tabs
+core.py:379:1: W191 indentation contains tabs
+core.py:381:1: W191 indentation contains tabs
+core.py:383:1: W191 indentation contains tabs
+core.py:384:1: W191 indentation contains tabs
+core.py:385:1: W191 indentation contains tabs
+core.py:386:1: W191 indentation contains tabs
+core.py:387:1: W191 indentation contains tabs
+core.py:389:1: W191 indentation contains tabs
+core.py:390:1: W191 indentation contains tabs
+core.py:391:1: W191 indentation contains tabs
+core.py:392:1: W191 indentation contains tabs
+core.py:393:1: W191 indentation contains tabs
+core.py:393:4: E265 block comment should start with '# '
+core.py:394:1: W191 indentation contains tabs
+core.py:395:1: W191 indentation contains tabs
+core.py:396:1: W191 indentation contains tabs
+core.py:396:26: F821 undefined name 'others'
+core.py:397:1: W191 indentation contains tabs
+core.py:398:1: W191 indentation contains tabs
+core.py:399:1: W191 indentation contains tabs
+core.py:400:1: W191 indentation contains tabs
+core.py:400:42: E251 unexpected spaces around keyword / parameter equals
+core.py:400:72: E251 unexpected spaces around keyword / parameter equals
+core.py:400:74: E251 unexpected spaces around keyword / parameter equals
+core.py:400:80: E501 line too long (101 > 79 characters)
+core.py:400:95: E251 unexpected spaces around keyword / parameter equals
+core.py:400:97: E251 unexpected spaces around keyword / parameter equals
+core.py:401:1: W191 indentation contains tabs
+core.py:403:1: W191 indentation contains tabs
+core.py:404:1: W191 indentation contains tabs
+core.py:406:1: W191 indentation contains tabs
+core.py:407:1: W191 indentation contains tabs
+core.py:408:1: W191 indentation contains tabs
+core.py:409:1: W191 indentation contains tabs
+core.py:410:1: W191 indentation contains tabs
+core.py:410:16: F821 undefined name 'othr'
+core.py:411:1: W191 indentation contains tabs
+core.py:412:1: W191 indentation contains tabs
+core.py:413:1: W191 indentation contains tabs
+core.py:414:1: W191 indentation contains tabs
+core.py:414:42: E251 unexpected spaces around keyword / parameter equals
+core.py:414:72: E251 unexpected spaces around keyword / parameter equals
+core.py:414:74: E251 unexpected spaces around keyword / parameter equals
+core.py:414:80: E501 line too long (101 > 79 characters)
+core.py:414:95: E251 unexpected spaces around keyword / parameter equals
+core.py:414:97: E251 unexpected spaces around keyword / parameter equals
+core.py:415:1: W191 indentation contains tabs
+core.py:417:1: W191 indentation contains tabs
+core.py:418:1: W191 indentation contains tabs
+core.py:419:1: W191 indentation contains tabs
+core.py:419:1: W293 blank line contains whitespace
+core.py:420:1: W191 indentation contains tabs
+core.py:421:1: W191 indentation contains tabs
+core.py:421:4: F821 undefined name 'mod'
+core.py:422:1: W191 indentation contains tabs
+core.py:423:1: W191 indentation contains tabs
+core.py:424:1: W191 indentation contains tabs
+core.py:425:1: W191 indentation contains tabs
+core.py:426:1: W191 indentation contains tabs
+core.py:427:1: W191 indentation contains tabs
+core.py:428:1: W191 indentation contains tabs
+core.py:428:42: E251 unexpected spaces around keyword / parameter equals
+core.py:428:72: E251 unexpected spaces around keyword / parameter equals
+core.py:428:74: E251 unexpected spaces around keyword / parameter equals
+core.py:428:80: E501 line too long (101 > 79 characters)
+core.py:428:95: E251 unexpected spaces around keyword / parameter equals
+core.py:428:97: E251 unexpected spaces around keyword / parameter equals
+core.py:429:1: W191 indentation contains tabs
+core.py:431:1: W191 indentation contains tabs
+core.py:432:1: W191 indentation contains tabs
+core.py:433:1: W191 indentation contains tabs
+core.py:433:1: W293 blank line contains whitespace
+core.py:434:1: W191 indentation contains tabs
+core.py:435:1: W191 indentation contains tabs
+core.py:436:1: W191 indentation contains tabs
+core.py:437:1: W191 indentation contains tabs
+core.py:438:1: W191 indentation contains tabs
+core.py:439:1: W191 indentation contains tabs
+core.py:440:1: W191 indentation contains tabs
+core.py:441:1: W191 indentation contains tabs
+core.py:442:1: W191 indentation contains tabs
+core.py:442:42: E251 unexpected spaces around keyword / parameter equals
+core.py:442:72: E251 unexpected spaces around keyword / parameter equals
+core.py:442:74: E251 unexpected spaces around keyword / parameter equals
+core.py:442:80: E501 line too long (101 > 79 characters)
+core.py:442:95: E251 unexpected spaces around keyword / parameter equals
+core.py:442:97: E251 unexpected spaces around keyword / parameter equals
+core.py:443:1: W191 indentation contains tabs
+core.py:445:1: W191 indentation contains tabs
+core.py:446:1: W191 indentation contains tabs
+core.py:447:1: W191 indentation contains tabs
+core.py:447:1: W293 blank line contains whitespace
+core.py:448:1: W191 indentation contains tabs
+core.py:449:1: W191 indentation contains tabs
+core.py:450:1: W191 indentation contains tabs
+core.py:451:1: W191 indentation contains tabs
+core.py:452:1: W191 indentation contains tabs
+core.py:453:1: W191 indentation contains tabs
+core.py:454:1: W191 indentation contains tabs
+core.py:455:1: W191 indentation contains tabs
+core.py:456:1: W191 indentation contains tabs
+core.py:456:42: E251 unexpected spaces around keyword / parameter equals
+core.py:456:72: E251 unexpected spaces around keyword / parameter equals
+core.py:456:74: E251 unexpected spaces around keyword / parameter equals
+core.py:456:80: E501 line too long (101 > 79 characters)
+core.py:456:95: E251 unexpected spaces around keyword / parameter equals
+core.py:456:97: E251 unexpected spaces around keyword / parameter equals
+core.py:457:1: W191 indentation contains tabs
+core.py:459:1: W191 indentation contains tabs
+core.py:460:1: W191 indentation contains tabs
+core.py:461:1: W191 indentation contains tabs
+core.py:461:1: W293 blank line contains whitespace
+core.py:462:1: W191 indentation contains tabs
+core.py:463:1: W191 indentation contains tabs
+core.py:464:1: W191 indentation contains tabs
+core.py:465:1: W191 indentation contains tabs
+core.py:466:1: W191 indentation contains tabs
+core.py:467:1: W191 indentation contains tabs
+core.py:468:1: W191 indentation contains tabs
+core.py:469:1: W191 indentation contains tabs
+core.py:470:1: W191 indentation contains tabs
+core.py:470:80: E501 line too long (96 > 79 characters)
+core.py:471:1: W191 indentation contains tabs
+core.py:473:1: W191 indentation contains tabs
+core.py:474:1: W191 indentation contains tabs
+core.py:475:1: W191 indentation contains tabs
+core.py:475:1: W293 blank line contains whitespace
+core.py:476:1: W191 indentation contains tabs
+core.py:477:1: W191 indentation contains tabs
+core.py:478:1: W191 indentation contains tabs
+core.py:479:1: W191 indentation contains tabs
+core.py:480:1: W191 indentation contains tabs
+core.py:481:1: W191 indentation contains tabs
+core.py:482:1: W191 indentation contains tabs
+core.py:483:1: W191 indentation contains tabs
+core.py:485:1: W191 indentation contains tabs
+core.py:485:1: W293 blank line contains whitespace
+core.py:486:1: W191 indentation contains tabs
+core.py:486:3: E303 too many blank lines (2)
+core.py:486:80: E501 line too long (96 > 79 characters)
+core.py:487:1: W191 indentation contains tabs
+core.py:489:1: W191 indentation contains tabs
+core.py:490:1: W191 indentation contains tabs
+core.py:491:1: W191 indentation contains tabs
+core.py:491:1: W293 blank line contains whitespace
+core.py:492:1: W191 indentation contains tabs
+core.py:493:1: W191 indentation contains tabs
+core.py:494:1: W191 indentation contains tabs
+core.py:495:1: W191 indentation contains tabs
+core.py:496:1: W191 indentation contains tabs
+core.py:497:1: W191 indentation contains tabs
+core.py:498:1: W191 indentation contains tabs
+core.py:499:1: W191 indentation contains tabs
+core.py:500:1: W191 indentation contains tabs
+core.py:500:1: W293 blank line contains whitespace
+core.py:501:1: W191 indentation contains tabs
+core.py:501:80: E501 line too long (96 > 79 characters)
+core.py:502:1: W191 indentation contains tabs
+core.py:504:1: W191 indentation contains tabs
+core.py:505:1: W191 indentation contains tabs
+core.py:506:1: W191 indentation contains tabs
+core.py:506:1: W293 blank line contains whitespace
+core.py:507:1: W191 indentation contains tabs
+core.py:508:1: W191 indentation contains tabs
+core.py:509:1: W191 indentation contains tabs
+core.py:510:1: W191 indentation contains tabs
+core.py:511:1: W191 indentation contains tabs
+core.py:512:1: W191 indentation contains tabs
+core.py:513:1: W191 indentation contains tabs
+core.py:514:1: W191 indentation contains tabs
+core.py:516:1: W191 indentation contains tabs
+core.py:516:80: E501 line too long (96 > 79 characters)
+core.py:517:1: W191 indentation contains tabs
+core.py:519:1: W191 indentation contains tabs
+core.py:520:1: W191 indentation contains tabs
+core.py:521:1: W191 indentation contains tabs
+core.py:521:1: W293 blank line contains whitespace
+core.py:522:1: W191 indentation contains tabs
+core.py:523:1: W191 indentation contains tabs
+core.py:524:1: W191 indentation contains tabs
+core.py:525:1: W191 indentation contains tabs
+core.py:526:1: W191 indentation contains tabs
+core.py:527:1: W191 indentation contains tabs
+core.py:528:1: W191 indentation contains tabs
+core.py:529:1: W191 indentation contains tabs
+core.py:531:1: W191 indentation contains tabs
+core.py:531:1: W293 blank line contains whitespace
+core.py:532:1: W191 indentation contains tabs
+core.py:532:3: E303 too many blank lines (2)
+core.py:532:80: E501 line too long (96 > 79 characters)
+core.py:533:1: W191 indentation contains tabs
+core.py:533:18: W291 trailing whitespace
+core.py:537:1: E303 too many blank lines (3)
+core.py:538:1: W191 indentation contains tabs
+core.py:538:1: W293 blank line contains whitespace
+core.py:540:1: W191 indentation contains tabs
+core.py:540:2: E303 too many blank lines (2)
+core.py:540:2: E265 block comment should start with '# '
+core.py:542:1: W191 indentation contains tabs
+core.py:542:16: E231 missing whitespace after ','
+core.py:542:19: E231 missing whitespace after ','
+core.py:542:33: E251 unexpected spaces around keyword / parameter equals
+core.py:542:35: E251 unexpected spaces around keyword / parameter equals
+core.py:544:1: W191 indentation contains tabs
+core.py:544:16: E231 missing whitespace after ','
+core.py:544:19: E231 missing whitespace after ','
+core.py:544:33: E251 unexpected spaces around keyword / parameter equals
+core.py:544:35: E251 unexpected spaces around keyword / parameter equals
+core.py:546:1: W191 indentation contains tabs
+core.py:548:1: W191 indentation contains tabs
+core.py:548:18: E251 unexpected spaces around keyword / parameter equals
+core.py:548:20: E251 unexpected spaces around keyword / parameter equals
+core.py:548:45: E251 unexpected spaces around keyword / parameter equals
+core.py:548:47: E251 unexpected spaces around keyword / parameter equals
+core.py:550:1: W391 blank line at end of file
